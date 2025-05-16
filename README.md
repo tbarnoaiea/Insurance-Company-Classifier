@@ -1,6 +1,6 @@
 # Insurance Company Classifier – Veridion Task
 
-This project addresses Task 2 from the [Veridion Engineering Challenge](https://veridion.com/engineering-challenges/): building a classifier that assigns one or more insurance-related labels to a given company description using the provided taxonomy.
+This project addresses building a classifier that assigns one or more insurance-related labels to a given company description using the provided taxonomy.
 
 ---
 
