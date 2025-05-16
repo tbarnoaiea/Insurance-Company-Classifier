@@ -1,4 +1,4 @@
-# Insurance Company Classifier – Veridion Task
+# Insurance Company Classifier
 
 This project addresses building a classifier that assigns one or more insurance-related labels to a given company description using the provided taxonomy.
 
